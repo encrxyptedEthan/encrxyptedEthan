@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey there! 👋
+Hello! My name is Ethan and I'm a programmer who programs in Lua and TypeScript.
 
 ## Discord Profile
 [![Discord Presence](https://lanyard.cnrad.dev/api/1024822280599117824?hideProfile=false&hideClan=true)](https://discord.com/users/1024822280599117824)
