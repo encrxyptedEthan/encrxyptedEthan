@@ -4,8 +4,8 @@ I'll ramble soon!
 
 ## 💜 I love working with
 
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" alt="Lua"/>
+<div display="flex">
+  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="TypeScript"/>
 </div>
 
 ## 🔭 I’m working on
