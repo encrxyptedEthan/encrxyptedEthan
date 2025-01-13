@@ -6,6 +6,8 @@ I'll ramble soon!
 
 ## 🔭 I’m working on
 
+- A secret roblox game
+
 ## 🌱 I’m learning
 
 <div display="flex">
