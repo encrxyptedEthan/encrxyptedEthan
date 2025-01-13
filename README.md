@@ -2,8 +2,6 @@
 
 I'll ramble soon!
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1024822280599117824?hideProfile=false&hideClan=true)](https://discord.com/users/1024822280599117824)
-
 ## 💜 I love working with
 
 <div display="flex">
@@ -21,6 +19,11 @@ I'll ramble soon!
 - A secret roblox game
 
 ## 🤔 I’m looking for help with
+
+## 📫 How to reach me
+
+**Discord**
+[![Discord Presence](https://lanyard.cnrad.dev/api/1024822280599117824?hideProfile=false&hideClan=true)](https://discord.com/users/1024822280599117824)
 
 ## My GitHub Stats
 ![encrxyptedEthan's Stats](https://github-readme-stats.vercel.app/api?username=encrxyptedEthan&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
