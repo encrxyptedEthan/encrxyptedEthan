@@ -20,7 +20,7 @@ I'll ramble soon!
 
 ## 🤔 I’m looking for help with
 
-## Fun Facts
+## ⚡ Fun Facts
 - I love Snoopy
 
 ## Discord Profile
