@@ -1,6 +1,6 @@
-## Hey there! 👋
+# Hey there! 👋
 
-# A little about me
+## A little about me
 I'll ramble here in a little bit...
 
 ## Discord Profile
