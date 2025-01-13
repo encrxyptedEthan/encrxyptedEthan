@@ -4,13 +4,13 @@ I'll ramble soon!
 
 ## 💜 I love working with
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</div>
-
 ## 🔭 I’m working on
 
 ## 🌱 I’m learning
+
+<div display="flex">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</div>
 
 ## 🤔 I’m looking for help with
 
