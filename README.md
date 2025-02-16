@@ -1,7 +1,5 @@
 # Hey there! 👋
 
-I'll ramble soon!
-
 ## 💜 I love working with
 
 <div display="flex">
