@@ -15,7 +15,7 @@
 
 ## 🔭 I’m working on
 
-- Project Elysium
+Nothing at the moment!
 
 ## 🤔 I’m looking for help with
 
