@@ -16,7 +16,7 @@
 
 ## 🔭 I’m working on
 
-🍣 Untitled Sushi Game
+Setting up Galactic Gecko Games!
 
 ## 🤔 I’m looking for help with
 
