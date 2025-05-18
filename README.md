@@ -16,7 +16,7 @@
 
 ## 🔭 I’m working on
 
-Setting up Galactic Gecko Games!
+- SCP-3008: Closing Hour
 
 ## 🤔 I’m looking for help with
 
