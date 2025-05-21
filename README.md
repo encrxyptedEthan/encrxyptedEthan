@@ -1,5 +1,7 @@
 # Hey there! 👋
 
+I love snoopy.
+
 ## 💜 I love working with
 
 <div display="flex">
@@ -16,7 +18,7 @@
 
 ## 🔭 I’m working on
 
-- SCP-3008: Closing Hour
+Nothing at the moment!
 
 ## 🤔 I’m looking for help with
 
