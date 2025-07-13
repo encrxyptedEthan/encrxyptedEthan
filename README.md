@@ -1,7 +1,5 @@
 # Hey there! 👋
 
-I love snoopy.
-
 ## 💜 I love working with
 
 <div display="flex">
