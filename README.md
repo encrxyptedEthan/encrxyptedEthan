@@ -1,5 +1,7 @@
 # Hey there! 👋
 
+im horrible at math 🥀
+
 ## 💜 I love working with
 
 <div display="flex">
